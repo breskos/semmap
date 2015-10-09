@@ -1,7 +1,7 @@
 <?php
 /**
  * @author Alexander Bresk (abresk@cip-labs.net)
- * @version 0.0.1
+ * @version 0.0.2
  * @project semmap
 **/
 set_time_limit(0);
@@ -29,7 +29,7 @@ $files = get_files($argv[1]);
 echo '-> found ' , count($files) , ' file(s)' , PHP_EOL;
 
 # prepare maps
-$semmap = load_semmap('semmap.json'); #means 'frame' => array('word1', ..., 'wordN')
+$semmap = load_semmap(SEMMAP); #means 'frame' => array('word1', ..., 'wordN')
 $reverse_map = reverse_semmap($semmap); #means 'word' => array('frame1', ..., 'frameN')
 
 $time = start_measure("initialize correlation arrays");
@@ -39,12 +39,10 @@ stop_measure($time);
 foreach($files as $file){
   $contents = implode(' ', file($file));
   replace_tokens($contents, array('.' => '', '!' => '', '?' => '', '#' => ''));
-  if(count(explode(' ', $contents)) < 1000){
     # count correlations
     $time = start_measure("count correlations for $file");
     count_correlations($strong_correlations, $weak_correlations, $reverse_map, $contents);
     stop_measure($time);
-  }
 }
 
 # calculate correlations from counted observations
