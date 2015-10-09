@@ -1,6 +1,6 @@
 # SemMap
 Version 0.0.2 (2015-10-09).
- SemMap (SEMantic MAP) allows you to perform calculations on semantic frames for the German language. A semantic frame is a cluster of words that have the same semantic meaning. The representation of the semantic map was realized JSON. Below you can see a sample frame:
+ SemMap (SEMantic MAP) allows you to perform calculations on semantic frames for the German language. A semantic frame is a cluster of words that have the same semantic meaning. The representation of the semantic map was realized JSON. By the way, SemMap is the largest semantic representation of German words that is available to the public. Below you can see a sample frame:
 
  <pre>
  "Commerce_collect": [
