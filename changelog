@@ -1,0 +1,20 @@
+Alexander Bresk, abresk@cip-labs.net
+Last Update: 2015-10-09
+
+v0.0.2
+******
+-> added 724 items from GermaNet (nouns, adjectives, verbs)
+-> currently 265 frames
+-> added weak and strong correlations trained on an dedicated german wikiepdia corpus 
+-> trained correlation files on ~1.3 million documents dump from Wikipedia
+(2013)
+
+V0.0.1
+******
+-> initial semmap lines 1701
+-> all ß are converted to ss
+-> deleted all frames that were named after there containing word
+-> added frames
+	- Direction
+-> extended frames with new elements
+	- Ride_Vehicle

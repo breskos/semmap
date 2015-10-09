@@ -1,0 +1,2425 @@
+{
+  "Memory": [
+    "vergessen",
+    "denken",
+    "aufrufen",
+    "vorhaben"
+  ],
+  "Choosing": [
+    "Wahl",
+    "nehmen",
+    "auswählen",
+    "essen",
+    "futtern",
+    "wählen",
+    "Auswahl",
+    "Selektion"
+  ],
+  "Kinship": [
+    "Eltern",
+    "Sohn",
+    "Vater",
+    "Kind",
+    "Bruder",
+    "Cousin",
+    "Schwester",
+    "Grossmutter",
+    "Tochter",
+    "Mutter",
+    "Grossvater",
+    "Geschwister",
+    "Enkel",
+    "Onkel",
+    "Neffe",
+    "Grosseltern",
+    "Oheim",
+    "Krankenschwester",
+    "Menschensohn",
+    "Christ",
+    "Jesus",
+    "Christus",
+    "Laienprediger",
+    "Laienpredigerin",
+    "Vetter",
+    "Herrgott",
+    "Gottvater",
+    "Herr",
+    "Enkelkind",
+    "Kindeskind",
+    "Enkelin"
+  ],
+  "Assessing": [
+    "schätzen",
+    "beurteilen",
+    "bedeuten",
+    "würdigen",
+    "hochachten",
+    "ästimieren",
+    "andeuten"
+  ],
+  "Deserving": [
+    "rechtfertigen",
+    "begründen",
+    "justifizieren"
+  ],
+  "Destroying": [
+    "ersticken",
+    "zermalmen",
+    "zerstören",
+    "vernichten",
+    "verbrennen",
+    "destruieren"
+  ],
+  "Part_ordered_segments": [
+    "Teil",
+    "Folge",
+    "Chronologie",
+    "Reihenfolge",
+    "Zeitabfolge"
+  ],
+  "Part_orientational": [
+    "Seite",
+    "Westen",
+    "Osten",
+    "Norden",
+    "Süden",
+    "Nord",
+    "Süd"
+  ],
+  "Attention_getting": [
+    "Mensch",
+    "Mann",
+    "Person",
+    "Persönlichkeit",
+    "Individuum"
+  ],
+  "Being_named": [
+    "nennen",
+    "heissen",
+    "hören",
+    "bezeichnen"
+  ],
+  "Surpassing": [
+    "abhängen"
+  ],
+  "Cause_confinement": [
+    "einschliessen"
+  ],
+  "Cause_to_wake": [
+    "wecken",
+    "reissen",
+    "aufwecken"
+  ],
+  "Claim_ownership": [
+    "beanspruchen"
+  ],
+  "Processing_materials": [
+    "behandeln"
+  ],
+  "Thwarting": [
+    "hindern",
+    "kippen",
+    "schwermachen",
+    "erschweren",
+    "hemmen",
+    "lähmen",
+    "heben"
+  ],
+  "Building": [
+    "bauen",
+    "aufschlagen"
+  ],
+  "Attempt": [
+    "versuchen",
+    "suchen",
+    "bemühen",
+    "setzen",
+    "probieren"
+  ],
+  "Robbery": [
+    "überfallen"
+  ],
+  "Beyond_compare": [
+    "suchen"
+  ],
+  "Cause_to_start": [
+    "produzieren",
+    "herstellen",
+    "erzeugen",
+    "fabrizieren"
+  ],
+  "Categorization": [
+    "darstellen",
+    "begreifen",
+    "ansehen",
+    "verstehen",
+    "befinden",
+    "rechnen",
+    "betrachten",
+    "empfinden",
+    "denken",
+    "glauben",
+    "nehmen",
+    "wahrnehmen",
+    "interpretieren",
+    "einordnen",
+    "lesen",
+    "abqualifizieren",
+    "setzen",
+    "behandeln",
+    "erfassen",
+    "essen",
+    "futtern",
+    "sein",
+    "registrieren",
+    "einsortieren",
+    "vorhaben",
+    "perzipieren"
+  ],
+  "Run_risk": [
+    "drohen",
+    "setzen",
+    "bedrohen"
+  ],
+  "Cause_motion": [
+    "treiben",
+    "stossen",
+    "stürzen",
+    "zerren",
+    "reissen",
+    "peitschen",
+    "starten",
+    "geißeln"
+  ],
+  "Similarity": [
+    "Welt",
+    "Erdkörper",
+    "Erde",
+    "Erdkugel",
+    "Erdball",
+    "Erdkreis",
+    "Globus",
+    "Weltkugel"
+  ],
+  "Hit_target": [
+    "anschiessen",
+    "beschiessen"
+  ],
+  "Experiencer_obj": [
+    "wehtun",
+    "überraschen",
+    "stinken",
+    "ankommen",
+    "quälen",
+    "fürchten",
+    "bringen",
+    "Auge",
+    "kümmern",
+    "wundern",
+    "verwundern",
+    "sorgen",
+    "einbringen",
+    "ertragen",
+    "eintragen",
+    "erbringen",
+    "abwerfen",
+    "einspielen",
+    "peinigen",
+    "Fettauge"
+  ],
+  "Objective_influence": [
+    "beeinflussen",
+    "durchschlagen"
+  ],
+  "Natural_features": [
+    "Land"
+  ],
+  "Telling": [
+    "erklären",
+    "sagen",
+    "berichten",
+    "mitteilen",
+    "melden",
+    "informieren",
+    "bedeuten",
+    "benachrichtigen",
+    "belehren",
+    "nahelegen",
+    "sprechen",
+    "schildern",
+    "reden",
+    "andeuten",
+    "unterrichten",
+    "bekanntgeben",
+    "bekanntmachen"
+  ],
+  "Time_vector": [
+    "Folge",
+    "Chronologie",
+    "Reihenfolge",
+    "Zeitabfolge"
+  ],
+  "Expectation": [
+    "rechnen",
+    "annehmen",
+    "denken",
+    "glauben",
+    "riechen",
+    "erspähen",
+    "vorhaben"
+  ],
+  "Moving_in_place": [
+    "schwingen",
+    "kreisen",
+    "schlingern",
+    "oszillieren"
+  ],
+  "Taking_time": [
+    "brauchen",
+    "benötigen",
+    "bedürfen"
+  ],
+  "Committing_crime": [
+    "Täter",
+    "Täterin",
+    "Straftäter",
+    "Straftäterin",
+    "Delinquent",
+    "Delinquentin"
+  ],
+  "Participation": [
+    "beteiligen",
+    "teilnehmen",
+    "Mitwirkung",
+    "mitwirken",
+    "mitgestalten",
+    "mittun",
+    "partizipieren",
+    "Mitarbeit",
+    "Assistenz"
+  ],
+  "Endangering": [
+    "gefährden",
+    "bedrohen"
+  ],
+  "Cotheme": [
+    "bringen",
+    "hetzen",
+    "einbringen",
+    "ertragen",
+    "eintragen",
+    "erbringen",
+    "abwerfen",
+    "einspielen",
+    "hasten"
+  ],
+  "Cogitation": [
+    "überlegen",
+    "nachdenken",
+    "denken",
+    "fragen",
+    "achten",
+    "Auge",
+    "bedenken",
+    "erwägen",
+    "sinnieren",
+    "grübeln",
+    "vorhaben",
+    "Fettauge"
+  ],
+  "Likelihood": [
+    "annehmen",
+    "vermuten",
+    "mutmaßen",
+    "schätzen",
+    "wähnen"
+  ],
+  "Escaping": [
+    "suchen"
+  ],
+  "Using": [
+    "nehmen",
+    "arbeiten",
+    "bemühen",
+    "auseinandersetzen",
+    "abgeben",
+    "essen",
+    "futtern"
+  ],
+  "Giving": [
+    "vererben",
+    "zurückgeben",
+    "abgeben",
+    "übergeben",
+    "schenken",
+    "verschenken",
+    "hergeben",
+    "überreichen",
+    "weitergeben",
+    "herumreichen",
+    "spenden",
+    "stiften",
+    "verbreiten",
+    "sparen",
+    "opfern",
+    "brechen",
+    "erbrechen"
+  ],
+  "Justifying": [
+    "verteidigen",
+    "rechtfertigen",
+    "justifizieren"
+  ],
+  "Execution": [
+    "hinrichten",
+    "Hinrichtung",
+    "Henker",
+    "Exekution",
+    "exekutieren",
+    "liquidieren",
+    "Henkerin"
+  ],
+  "Encoding": [
+    "reden",
+    "sagen",
+    "sprechen"
+  ],
+  "Process_start": [
+    "starten"
+  ],
+  "Personal_relationship": [
+    "Frau",
+    "Mann",
+    "Freund",
+    "Freundin",
+    "Partner",
+    "Kumpel",
+    "Liebhaber",
+    "Liebhaberin",
+    "Bergmann",
+    "Bergfrau"
+  ],
+  "Facial_expression": [
+    "blicken",
+    "schauen",
+    "gucken"
+  ],
+  "Abusing": [
+    "misshandeln"
+  ],
+  "Being_obligated": [
+    "heissen",
+    "fordern",
+    "verpflichten",
+    "Job",
+    "verlangen",
+    "einfordern",
+    "Arbeit",
+    "Arbeitsplatz"
+  ],
+  "Commitment": [
+    "versprechen",
+    "drohen",
+    "ansagen",
+    "versichern"
+  ],
+  "Discussion": [
+    "diskutieren",
+    "reden",
+    "sprechen",
+    "verhandeln",
+    "besprechen",
+    "erörtern",
+    "debattieren",
+    "bereden",
+    "disputieren"
+  ],
+  "Ambient_temperature": [
+    "sitzen"
+  ],
+  "Closure": [
+    "zuschlagen",
+    "schliessen"
+  ],
+  "Excreting": [
+    "übergeben",
+    "brechen",
+    "erbrechen"
+  ],
+  "Contacting": [
+    "schreiben",
+    "melden",
+    "erreichen",
+    "gelangen"
+  ],
+  "Evidence": [
+    "ergeben",
+    "sagen",
+    "zeigen",
+    "bedeuten",
+    "nahelegen",
+    "signalisieren",
+    "widersprechen",
+    "sprechen",
+    "demonstrieren",
+    "bezeugen",
+    "ankündigen",
+    "feststellen",
+    "anfallen",
+    "herausstellen",
+    "vorkommen",
+    "reden",
+    "andeuten"
+  ],
+  "Cause_impact": [
+    "zuschlagen",
+    "stossen",
+    "hauen",
+    "peitschen",
+    "geißeln",
+    "schlagen",
+    "kloppen"
+  ],
+  "Quitting": [
+    "zurückziehen",
+    "setzen",
+    "vereinzeln",
+    "absondern"
+  ],
+  "Firing": [
+    "zeigen"
+  ],
+  "Sufficiency": [
+    "Gebühr",
+    "springen"
+  ],
+  "People": [
+    "Mensch",
+    "Leute",
+    "Mann",
+    "Frau",
+    "Person",
+    "Persönlichkeit",
+    "Individuum"
+  ],
+  "Communicate_categorization": [
+    "erklären",
+    "darstellen",
+    "verkaufen"
+  ],
+  "Residence": [
+    "bleiben"
+  ],
+  "Remembering_experience": [
+    "passieren",
+    "durchdrehen"
+  ],
+  "Commerce_money": [
+    "hereinkommen",
+    "hineinkommen",
+    "reinkommen",
+    "eintreten"
+  ],
+  "Possession": [
+    "besitzen",
+    "beteiligen",
+    "nennen",
+    "Güter",
+    "bezeichnen",
+    "haben"
+  ],
+  "People_by_vocation": [
+    "Kumpel",
+    "Bergmann",
+    "Bergfrau"
+  ],
+  "Immobilization": [
+    "einschliessen"
+  ],
+  "Commerce": [
+    "pachten",
+    "Käufer",
+    "Erwerber",
+    "Kosten",
+    "Erwerb",
+    "mieten",
+    "Einkauf",
+    "Erlernung",
+    "Aneignung",
+    "Erwerberin",
+    "Unkosten",
+    "Kauf",
+    "Ankauf"
+  ],
+  "Activity_ongoing": [
+    "fortsetzen",
+    "fortführen",
+    "fortfahren",
+    "kontinuieren"
+  ],
+  "Contingency": [
+    "abhängen",
+    "ankommen",
+    "Frage",
+    "Fragesatz",
+    "Interrogativsatz"
+  ],
+  "Political_locales": [
+    "Welt",
+    "Land",
+    "Stadt",
+    "Erdkörper",
+    "Erde",
+    "Erdkugel",
+    "Erdball",
+    "Erdkreis",
+    "Globus",
+    "Weltkugel"
+  ],
+  "Change_of_leadership": [
+    "Wahl",
+    "berufen",
+    "aussprechen",
+    "ablösen",
+    "stürzen",
+    "besteigen",
+    "kippen",
+    "kommen",
+    "bezwingen",
+    "heben",
+    "Auswahl",
+    "Selektion"
+  ],
+  "Process_continue": [
+    "fortsetzen",
+    "fortführen",
+    "fortfahren",
+    "kontinuieren"
+  ],
+  "Referring_by_name": [
+    "nennen",
+    "bezeichnen"
+  ],
+  "Hair_configuration": [
+    "Haar"
+  ],
+  "Commerce_sell": [
+    "verkaufen",
+    "losschlagen",
+    "abgeben",
+    "vertreiben",
+    "bringen",
+    "verbreiten",
+    "einbringen",
+    "ertragen",
+    "eintragen",
+    "erbringen",
+    "abwerfen",
+    "einspielen",
+    "wegtreiben",
+    "davontreiben",
+    "forttreiben",
+    "verjagen",
+    "wegjagen"
+  ],
+  "Membership": [
+    "Mitglied"
+  ],
+  "Desirability": [
+    "wünschen"
+  ],
+  "Offenses": [
+    "Mord",
+    "Mörder",
+    "Totschlag",
+    "Ermordung",
+    "Mordtat",
+    "Tötung",
+    "Mörderin",
+    "Killer",
+    "Killerin"
+  ],
+  "Removing": [
+    "nehmen",
+    "eliminieren",
+    "kratzen",
+    "abhängen",
+    "setzen",
+    "ablegen",
+    "zurückziehen",
+    "ausrotten",
+    "ableiten",
+    "beseitigen",
+    "wegmachen",
+    "essen",
+    "futtern",
+    "derivieren",
+    "vereinzeln",
+    "absondern"
+  ],
+  "Emanating": [
+    "sprühen"
+  ],
+  "People_by_age": [
+    "Kind",
+    "Oma",
+    "Großmutter",
+    "Omama",
+    "Omi"
+  ],
+  "Perception_experience": [
+    "erleben",
+    "spüren",
+    "ansehen",
+    "hören",
+    "beobachten",
+    "verspüren",
+    "wahrnehmen",
+    "riechen",
+    "empfinden",
+    "bemerken",
+    "bekommen",
+    "blicken",
+    "erblicken",
+    "schmecken",
+    "Ohr",
+    "lesen",
+    "observieren",
+    "perzipieren"
+  ],
+  "Operate_vehicle": [
+    "rollen",
+    "fliegen",
+    "kommen",
+    "sitzen",
+    "schleichen"
+  ],
+  "First_rank": [
+    "anführen",
+    "aufführen"
+  ],
+  "Certainty": [
+    "überzeugen",
+    "glauben",
+    "wissen",
+    "annehmen"
+  ],
+  "Activity_resume": [
+    "fortsetzen",
+    "fortführen",
+    "fortfahren",
+    "kontinuieren"
+  ],
+  "Feeling": [
+    "empfinden",
+    "verspüren"
+  ],
+  "Judgment": [
+    "akzeptieren",
+    "schätzen",
+    "begrüssen",
+    "achten",
+    "bewundern",
+    "verehren",
+    "billigen",
+    "bejahen",
+    "respektieren",
+    "bejubeln",
+    "ehren",
+    "verachten",
+    "würdigen",
+    "hochachten",
+    "ästimieren",
+    "tolerieren"
+  ],
+  "Ingest_substance": [
+    "nehmen",
+    "Einnahme",
+    "essen",
+    "futtern",
+    "Eroberung"
+  ],
+  "Frugality": [
+    "verschenken"
+  ],
+  "Abundance": [
+    "Auge",
+    "weit Auge der reichen so",
+    "Fettauge"
+  ],
+  "Reliance_on_expectation": [
+    "setzen"
+  ],
+  "Appearance": [
+    "anhören",
+    "lesen",
+    "stinken"
+  ],
+  "Reasoning": [
+    "argumentieren",
+    "zeigen",
+    "sprechen",
+    "reden"
+  ],
+  "Calendric_unit": [
+    "Mittwoch",
+    "Wochenende",
+    "Samstag",
+    "Sonntag",
+    "Freitag",
+    "Donnerstag",
+    "Montag",
+    "Dienstag",
+    "Sonnabend",
+    "Wochenschluss"
+  ],
+  "Fining": [
+    "Strafe",
+    "Bestrafung",
+    "Ahndung",
+    "Vergeltung"
+  ],
+  "Commerce_pay": [
+    "zahlen",
+    "Zahlung",
+    "bezahlen",
+    "hinlegen",
+    "büßen",
+    "sühnen",
+    "gerade stehen",
+    "Bezahlung"
+  ],
+  "Experience_bodily_harm": [
+    "brechen"
+  ],
+  "Change_of_state_scenario": [
+    "springen"
+  ],
+  "Grasp": [
+    "begreifen",
+    "erfassen",
+    "registrieren"
+  ],
+  "Departing": [
+    "zurückziehen",
+    "starten",
+    "kommen",
+    "weggehen",
+    "vereinzeln",
+    "absondern"
+  ],
+  "Perception_active": [
+    "gucken",
+    "schauen",
+    "angucken",
+    "ansehen",
+    "beobachten",
+    "anschauen",
+    "anhören",
+    "zusehen",
+    "blicken",
+    "hören",
+    "riechen",
+    "zuschauen",
+    "starren",
+    "betrachten",
+    "bestaunen",
+    "zuhören",
+    "besichtigen",
+    "erspähen",
+    "probieren",
+    "lauschen",
+    "abhören",
+    "erblicken",
+    "beäugen",
+    "anblicken",
+    "fernsehen",
+    "zugucken",
+    "versuchen",
+    "observieren",
+    "horchen",
+    "hinhören",
+    "spitzen",
+    "beäugeln",
+    "beaugapfeln",
+    "besehen",
+    "ankucken",
+    "glotzen",
+    "stieren"
+  ],
+  "Body_movement": [
+    "treten"
+  ],
+  "Verdict": [
+    "verurteilen",
+    "sprechen",
+    "reden"
+  ],
+  "Process_resume": [
+    "fortsetzen",
+    "fortführen",
+    "fortfahren",
+    "kontinuieren"
+  ],
+  "Employment_continue": [
+    "bleiben"
+  ],
+  "Desiring": [
+    "wünschen",
+    "Wunsch",
+    "Hoffnung",
+    "hoffen",
+    "Wille",
+    "brennen",
+    "sinnen",
+    "Willen"
+  ],
+  "Death": [
+    "Tod",
+    "sterben",
+    "bezahlen",
+    "sinken",
+    "erfrieren",
+    "erliegen",
+    "ersticken",
+    "erlegen",
+    "aussterben",
+    "absterben",
+    "verhungern",
+    "schießen",
+    "unterliegen",
+    "büßen",
+    "sühnen",
+    "gerade stehen",
+    "Exitus"
+  ],
+  "Performers_and_roles": [
+    "darstellen"
+  ],
+  "Deny_permission": [
+    "verbieten",
+    "untersagen"
+  ],
+  "Containing": [
+    "enthalten"
+  ],
+  "Manufacturing": [
+    "produzieren",
+    "rollen",
+    "kommen",
+    "gewinnen",
+    "zunehmen",
+    "herstellen",
+    "erzeugen",
+    "fabrizieren"
+  ],
+  "Topic": [
+    "behandeln",
+    "sprechen",
+    "meinen",
+    "informieren",
+    "verhandeln",
+    "betrachten",
+    "reden",
+    "unterrichten",
+    "benachrichtigen",
+    "bekanntgeben",
+    "bekanntmachen"
+  ],
+  "Relative_time": [
+    "kommen",
+    "hetzen",
+    "hasten"
+  ],
+  "Causation": [
+    "Grund",
+    "Folge",
+    "Ursache",
+    "bringen",
+    "Wirkung",
+    "Resultat",
+    "Auswirkung",
+    "Konsequenz",
+    "treiben",
+    "fordern",
+    "Ergebnis",
+    "Auslöser",
+    "kommen",
+    "Effekt",
+    "begründen",
+    "stürzen",
+    "setzen",
+    "beteiligen",
+    "einbringen",
+    "ertragen",
+    "eintragen",
+    "erbringen",
+    "abwerfen",
+    "einspielen",
+    "verlangen",
+    "einfordern",
+    "Trigger",
+    "Verursachung",
+    "Verursacher",
+    "Ausgang",
+    "Chronologie",
+    "Reihenfolge",
+    "Zeitabfolge"
+  ],
+  "Getting": [
+    "bekommen",
+    "einsacken",
+    "sacken"
+  ],
+  "Sound_movement": [
+    "kommen"
+  ],
+  "Experiencer_subj": [
+    "Angst",
+    "fürchten",
+    "freuen",
+    "befürchten",
+    "zerstören",
+    "bedauern",
+    "Hass",
+    "lieben",
+    "verehren",
+    "hassen",
+    "wundern",
+    "Freund",
+    "sprechen",
+    "nehmen",
+    "Hass",
+    "destruieren",
+    "verwundern",
+    "essen",
+    "futtern",
+    "bereuen",
+    "reden",
+    "Liebhaber",
+    "Liebhaberin",
+    "Freundin",
+    "Furcht",
+    "Schiss",
+    "Muffe",
+    "Muffensausen",
+    "Bammel"
+  ],
+  "Reading": [
+    "lesen"
+  ],
+  "Collaboration": [
+    "Kollegin",
+    "Kollege",
+    "Zusammenarbeit",
+    "Kooperation",
+    "Partner",
+    "Mitstreiter",
+    "arbeiten",
+    "Kollaboration",
+    "Mitarbeit",
+    "Kollaborateur",
+    "auseinandersetzen",
+    "abgeben",
+    "Weggenossin",
+    "Mitstreiterin",
+    "Weggenosse",
+    "Mitwirkung",
+    "Assistenz",
+    "Kollaborateurin"
+  ],
+  "Origin": [
+    "Kind",
+    "Enkel",
+    "Sohn",
+    "Menschensohn",
+    "Christ",
+    "Jesus",
+    "Christus",
+    "Enkelkind",
+    "Kindeskind",
+    "Enkelin"
+  ],
+  "Sending": [
+    "starten"
+  ],
+  "Hiring": [
+    "anstellen",
+    "engagieren",
+    "ausfressen",
+    "verbrechen",
+    "verzapfen"
+  ],
+  "Scrutiny": [
+    "anschauen",
+    "gucken",
+    "betrachten",
+    "besichtigen",
+    "ansehen",
+    "besehen",
+    "schauen"
+  ],
+  "Communication_manner": [
+    "tönen"
+  ],
+  "Taking_sides": [
+    "Seite"
+  ],
+  "Replacing": [
+    "ablösen"
+  ],
+  "Damaging": [
+    "einschlagen"
+  ],
+  "Emitting": [
+    "abgeben",
+    "sprühen",
+    "verbreiten"
+  ],
+  "Rewards_and_punishments": [
+    "Strafe",
+    "würdigen",
+    "bedenken",
+    "hochachten",
+    "schätzen",
+    "ästimieren",
+    "Bestrafung",
+    "Ahndung",
+    "Vergeltung"
+  ],
+  "Trial": [
+    "verhandeln"
+  ],
+  "Emotion_directed": [
+    "Zorn",
+    "Furcht",
+    "Trauer",
+    "Freude",
+    "Wut",
+    "Verzweiflung",
+    "Rage",
+    "Angst",
+    "Schiss",
+    "Muffe",
+    "Muffensausen",
+    "Bammel",
+    "Trauerzeit"
+  ],
+  "Placing": [
+    "setzen",
+    "bringen",
+    "nehmen",
+    "einführen",
+    "legen",
+    "plazieren",
+    "kippen",
+    "ablegen",
+    "einpflanzen",
+    "einlagern",
+    "essen",
+    "futtern",
+    "instantiieren",
+    "einbringen",
+    "ertragen",
+    "eintragen",
+    "erbringen",
+    "abwerfen",
+    "einspielen",
+    "heben"
+  ],
+  "Name_conferral": [
+    "nennen",
+    "bringen",
+    "bezeichnen",
+    "einbringen",
+    "ertragen",
+    "eintragen",
+    "erbringen",
+    "abwerfen",
+    "einspielen"
+  ],
+  "Hear": [
+    "hören",
+    "lesen",
+    "lauschen",
+    "anhören",
+    "vernehmen",
+    "verstehen",
+    "horchen",
+    "hinhören",
+    "spitzen"
+  ],
+  "Releasing": [
+    "setzen"
+  ],
+  "Hindering": [
+    "hindern",
+    "schwermachen",
+    "erschweren",
+    "hemmen",
+    "lähmen"
+  ],
+  "Path_shape": [
+    "setzen"
+  ],
+  "Cause_to_end": [
+    "ausrotten"
+  ],
+  "Compatibility": [
+    "widersprechen",
+    "Konflikt",
+    "Auseinandersetzung"
+  ],
+  "Render_nonfunctional": [
+    "ausschalten",
+    "ausmachen",
+    "abschalten",
+    "abstellen"
+  ],
+  "Newcomer": [
+    "treten"
+  ],
+  "Performing_arts": [
+    "darstellen"
+  ],
+  "Judgment_communication": [
+    "Kritiker",
+    "Kritik",
+    "loben",
+    "denunzieren",
+    "ablehnen",
+    "kritisieren",
+    "vorwerfen",
+    "bedauern",
+    "befürworten",
+    "begrüssen",
+    "rügen",
+    "geisseln",
+    "rühmen",
+    "verurteilen",
+    "billigen",
+    "gutheissen",
+    "würdigen",
+    "verherrlichen",
+    "abqualifizieren",
+    "verhöhnen",
+    "verdammen",
+    "preisen",
+    "angreifen",
+    "reden",
+    "anklagen",
+    "tadeln",
+    "applaudieren",
+    "Anklage",
+    "missbilligen",
+    "glorifizieren",
+    "lobpreisen",
+    "verneinen",
+    "rüffeln",
+    "klatschen",
+    "bereuen",
+    "sprechen",
+    "vermaledeien",
+    "hochachten",
+    "schätzen",
+    "ästimieren",
+    "Klage",
+    "Kritikerin"
+  ],
+  "Precipitation": [
+    "regnen"
+  ],
+  "Communication": [
+    "kommen",
+    "wissen",
+    "signalisieren",
+    "sprechen",
+    "reden"
+  ],
+  "Motion": [
+    "kommen",
+    "fliegen",
+    "treten",
+    "legen",
+    "treiben",
+    "wehen",
+    "rollen",
+    "springen",
+    "kreisen",
+    "gleiten",
+    "senken",
+    "winden",
+    "abbauen"
+  ],
+  "Cure": [
+    "behandeln"
+  ],
+  "Statement": [
+    "aussprechen",
+    "vermuten",
+    "äussern",
+    "meinen",
+    "zeigen",
+    "versichern",
+    "schreiben",
+    "wissen",
+    "behaupten",
+    "klagen",
+    "reagieren",
+    "einräumen",
+    "feststellen",
+    "erläutern",
+    "befinden",
+    "kommentieren",
+    "jubeln",
+    "warnen",
+    "fordern",
+    "mutmassen",
+    "beteuern",
+    "bemerken",
+    "angeben",
+    "glauben",
+    "Kommentar",
+    "denken",
+    "überlegen",
+    "rühmen",
+    "wünschen",
+    "sprechen",
+    "argwöhnen",
+    "suchen",
+    "empfehlen",
+    "verpflichten",
+    "bejahen",
+    "loben",
+    "verstehen",
+    "protestieren",
+    "bringen",
+    "kritisieren",
+    "freuen",
+    "bitten",
+    "verlautbaren",
+    "ausrufen",
+    "hoffen",
+    "kommen",
+    "darstellen",
+    "sinnieren",
+    "schätzen",
+    "mahnen",
+    "bekanntgeben",
+    "bedauern",
+    "interpretieren",
+    "bemühen",
+    "aussagen",
+    "betonen",
+    "setzen",
+    "beurteilen",
+    "proklamieren",
+    "würdigen",
+    "hochachten",
+    "ästimieren",
+    "informieren",
+    "unterrichten",
+    "benachrichtigen",
+    "bekanntmachen",
+    "einbringen",
+    "ertragen",
+    "eintragen",
+    "erbringen",
+    "abwerfen",
+    "einspielen",
+    "sein",
+    "beschwören",
+    "bereuen",
+    "grübeln",
+    "verlangen",
+    "einfordern",
+    "ermahnen",
+    "reden",
+    "vorhaben",
+    "verlauten",
+    "erklären",
+    "kundtun",
+    "annehmen",
+    "mutmaßen",
+    "wähnen",
+    "jubilieren",
+    "Kommentierung"
+  ],
+  "Locale_by_use": [
+    "Land",
+    "Güter",
+    "Stadt"
+  ],
+  "Import_export": [
+    "einführen",
+    "instantiieren"
+  ],
+  "Ride_Vehicle": [
+    "fliegen",
+    "fahren",
+    "rasen",
+    "düsen",
+    "preschen",
+    "sausen",
+    "brettern",
+    "heizen",
+    "zischen",
+    "fegen",
+    "flitzen",
+    "pesen",
+    "schesen"
+  ],
+  "Event": [
+    "stattfinden",
+    "kommen",
+    "geschehen",
+    "ausfallen",
+    "passieren",
+    "durchdrehen",
+    "widerfahren"
+  ],
+  "Expensiveness": [
+    "Kosten",
+    "bekommen",
+    "Unkosten"
+  ],
+  "Expertise": [
+    "verstehen",
+    "wissen"
+  ],
+  "Creating": [
+    "stiften",
+    "produzieren",
+    "setzen",
+    "herstellen",
+    "erzeugen",
+    "fabrizieren"
+  ],
+  "Compliance": [
+    "springen",
+    "brechen"
+  ],
+  "Finish_competition": [
+    "gewinnen",
+    "zunehmen"
+  ],
+  "Seeking": [
+    "suchen"
+  ],
+  "Suasion": [
+    "überzeugen",
+    "gewinnen",
+    "verkaufen",
+    "reden",
+    "zunehmen",
+    "sprechen"
+  ],
+  "Revenge": [
+    "rächen",
+    "bleiben"
+  ],
+  "Self_motion": [
+    "tanzen",
+    "marschieren",
+    "treten",
+    "hasten",
+    "klettern",
+    "vorrücken",
+    "steigen",
+    "rennen",
+    "spazieren",
+    "vorpreschen",
+    "springen",
+    "kommen",
+    "stürzen",
+    "eintauchen",
+    "bummeln",
+    "sausen",
+    "kreisen",
+    "wandeln",
+    "besteigen",
+    "rollen",
+    "gleiten",
+    "schleichen",
+    "zusteuern",
+    "schwingen",
+    "arbeiten",
+    "stossen",
+    "kriechen",
+    "wandern",
+    "fliegen",
+    "schlendern",
+    "huschen",
+    "bemühen",
+    "waten",
+    "bezwingen",
+    "auseinandersetzen",
+    "abgeben",
+    "paradieren",
+    "eintunken",
+    "einstippen",
+    "hetzen",
+    "promenieren",
+    "oszillieren",
+    "rasen",
+    "düsen",
+    "preschen",
+    "brettern",
+    "heizen",
+    "zischen",
+    "fegen",
+    "flitzen",
+    "pesen",
+    "schesen",
+    "laufen",
+    "sprinten",
+    "spurten",
+    "ändern",
+    "verändern",
+    "voraneilen"
+  ],
+  "Forgiveness": [
+    "nachsehen"
+  ],
+  "Cutting": [
+    "schlachten"
+  ],
+  "Undergo_change": [
+    "ändern",
+    "wandeln",
+    "verändern"
+  ],
+  "Observable_bodyparts": [
+    "Ohr",
+    "Auge",
+    "Haar",
+    "Körper",
+    "Physis",
+    "Fettauge"
+  ],
+  "Attention": [
+    "Auge",
+    "achten",
+    "Ohr",
+    "verlieren Auge aus der",
+    "Fettauge"
+  ],
+  "Commercial_transaction": [
+    "Kunde",
+    "Kundin"
+  ],
+  "Take_place_of": [
+    "ablösen"
+  ],
+  "Attempt_suasion": [
+    "mahnen",
+    "abraten",
+    "ermahnen"
+  ],
+  "Motion_directional": [
+    "stürzen",
+    "abstürzen",
+    "umfallen",
+    "Fall",
+    "sinken",
+    "springen",
+    "kippen",
+    "umkippen",
+    "hinlegen",
+    "hinfallen",
+    "hinfliegen",
+    "hinpurzeln",
+    "hinplumpsen",
+    "hinschlagen",
+    "hinsegeln",
+    "hinsausen",
+    "heben",
+    "Kasus",
+    "Deklination"
+  ],
+  "Undergoing": [
+    "Opfer"
+  ],
+  "Arrest": [
+    "festnehmen",
+    "verhaften",
+    "inhaftieren",
+    "arretieren",
+    "greifen"
+  ],
+  "Subjective_influence": [
+    "beeinflussen",
+    "erreichen",
+    "gelangen"
+  ],
+  "Subject_stimulus": [
+    "erreichen",
+    "gelangen"
+  ],
+  "Behind_the_scenes": [
+    "produzieren",
+    "darstellen",
+    "herstellen",
+    "erzeugen",
+    "fabrizieren"
+  ],
+  "Cause_change_of_scalar_position": [
+    "senken",
+    "erhöhen",
+    "treiben",
+    "reduzieren",
+    "schmälern",
+    "verdoppeln",
+    "abwerten",
+    "bringen",
+    "einbringen",
+    "ertragen",
+    "eintragen",
+    "erbringen",
+    "abwerfen",
+    "einspielen",
+    "abbauen",
+    "verzweifachen",
+    "dualisieren"
+  ],
+  "Arriving": [
+    "kommen",
+    "eintreffen",
+    "zurückkehren",
+    "ankommen",
+    "erreichen",
+    "hereinkommen",
+    "anfahren",
+    "hineinkommen",
+    "reinkommen",
+    "eintreten",
+    "gelangen",
+    "wiederkehren",
+    "zurückkommen"
+  ],
+  "Bringing": [
+    "bringen",
+    "fliegen",
+    "einbringen",
+    "ertragen",
+    "eintragen",
+    "erbringen",
+    "abwerfen",
+    "einspielen"
+  ],
+  "Ingestion": [
+    "kippen",
+    "abfüllen",
+    "heben"
+  ],
+  "Named_entity": [
+    "Zusammenarbeit",
+    "Welt",
+    "Sonntag",
+    "Seite",
+    "Mann",
+    "Fall",
+    "Quelle",
+    "Effekt",
+    "Tod",
+    "Haus",
+    "Süden",
+    "Job",
+    "Land",
+    "Stadt",
+    "Wahl",
+    "Zorn",
+    "Hass",
+    "Bank",
+    "Freundin",
+    "Wochenende",
+    "Auge",
+    "Frage",
+    "Frau",
+    "Norden",
+    "Mensch",
+    "Recht",
+    "Arbeitgeber",
+    "Partner",
+    "Freund",
+    "Wasserquelle",
+    "Quell",
+    "Arbeitgeberin",
+    "Wut",
+    "Rage",
+    "Person",
+    "Persönlichkeit",
+    "Individuum",
+    "Liebhaber",
+    "Liebhaberin",
+    "Gesetzeswerk",
+    "Auswahl",
+    "Selektion",
+    "Nord",
+    "Erdkörper",
+    "Erde",
+    "Erdkugel",
+    "Erdball",
+    "Erdkreis",
+    "Globus",
+    "Weltkugel",
+    "Arbeit",
+    "Arbeitsplatz",
+    "Exitus",
+    "Kasus",
+    "Deklination",
+    "Fettauge",
+    "Kasse",
+    "Geldinstitut",
+    "Geldhaus",
+    "Wochenschluss",
+    "Süd",
+    "Fragesatz",
+    "Interrogativsatz",
+    "Kooperation",
+    "Wirkung"
+  ],
+  "Part_whole": [
+    "Teil"
+  ],
+  "Change_of_state_endstate": [
+    "annehmen"
+  ],
+  "Adorning": [
+    "schmücken"
+  ],
+  "Activity_start": [
+    "starten",
+    "brechen"
+  ],
+  "Request": [
+    "verlangen",
+    "plädieren",
+    "aufrufen",
+    "Bitte",
+    "auffordern",
+    "fordern",
+    "bitten",
+    "zurückfordern",
+    "Forderung",
+    "appellieren",
+    "beantragen",
+    "beauftragen",
+    "anordnen",
+    "fragen",
+    "nachfragen",
+    "zitieren",
+    "suchen",
+    "nehmen",
+    "erkundigen",
+    "essen",
+    "futtern",
+    "einfordern",
+    "Bitten"
+  ],
+  "Amalgamation": [
+    "kommen"
+  ],
+  "Purpose": [
+    "Ziel",
+    "Absicht",
+    "anstreben",
+    "ansteuern",
+    "denken",
+    "setzen",
+    "meinen",
+    "bedenken",
+    "avisieren",
+    "vorhaben",
+    "Zielpunkt",
+    "Vorsatz"
+  ],
+  "Speak_on_topic": [
+    "sprechen",
+    "reden",
+    "diskutieren",
+    "besprechen",
+    "erörtern",
+    "debattieren",
+    "bereden",
+    "disputieren"
+  ],
+  "Travel": [
+    "reisen",
+    "fliegen"
+  ],
+  "Cause_change": [
+    "ändern",
+    "verändern",
+    "wandeln"
+  ],
+  "Kidnapping": [
+    "bringen",
+    "nehmen",
+    "essen",
+    "futtern",
+    "einbringen",
+    "ertragen",
+    "eintragen",
+    "erbringen",
+    "abwerfen",
+    "einspielen"
+  ],
+  "Position_on_a_scale": [
+    "erreichen",
+    "kommen",
+    "bringen",
+    "einbringen",
+    "ertragen",
+    "eintragen",
+    "erbringen",
+    "abwerfen",
+    "einspielen",
+    "gelangen"
+  ],
+  "Cause_expansion": [
+    "schrumpfen"
+  ],
+  "Sentencing": [
+    "Strafe",
+    "kommen",
+    "bringen",
+    "einbringen",
+    "ertragen",
+    "eintragen",
+    "erbringen",
+    "abwerfen",
+    "einspielen",
+    "Bestrafung",
+    "Ahndung",
+    "Vergeltung"
+  ],
+  "Questioning": [
+    "fragen",
+    "Frage",
+    "erkundigen",
+    "befragen",
+    "verhören",
+    "wissen",
+    "abfragen",
+    "nachfragen",
+    "erfragen",
+    "Fragesatz",
+    "Interrogativsatz"
+  ],
+  "Leadership": [
+    "Regierung",
+    "anführen",
+    "regieren",
+    "sitzen",
+    "angeben",
+    "aufführen",
+    "Regiment",
+    "Obrigkeit"
+  ],
+  "Omen": [
+    "ankündigen"
+  ],
+  "Support": [
+    "bringen",
+    "heissen",
+    "kommen",
+    "ausfallen",
+    "nehmen",
+    "befinden",
+    "bekommen",
+    "ablegen",
+    "legen",
+    "erhalten",
+    "anstellen",
+    "setzen",
+    "suchen",
+    "wahrnehmen",
+    "zeigen",
+    "darstellen",
+    "treten",
+    "abgeben",
+    "aussprechen",
+    "wissen",
+    "schenken",
+    "erklären",
+    "schliessen",
+    "einstecken",
+    "stiften",
+    "gewinnen",
+    "empfinden",
+    "enthalten",
+    "treiben",
+    "bleiben",
+    "besitzen",
+    "lernen",
+    "lesen",
+    "erreichen",
+    "schreiben",
+    "sprechen",
+    "stossen",
+    "ausfressen",
+    "verbrechen",
+    "verzapfen",
+    "verbreiten",
+    "essen",
+    "futtern",
+    "einbringen",
+    "ertragen",
+    "eintragen",
+    "erbringen",
+    "abwerfen",
+    "einspielen",
+    "sein",
+    "zunehmen",
+    "gelangen",
+    "sparen",
+    "reden",
+    "perzipieren",
+    "wegstecken",
+    "haben"
+  ],
+  "Awareness": [
+    "vermuten",
+    "glauben",
+    "wissen",
+    "bedenken",
+    "verstehen",
+    "annehmen",
+    "kennen",
+    "informieren",
+    "argwöhnen",
+    "mutmassen",
+    "schätzen",
+    "ahnen",
+    "denken",
+    "schauen",
+    "würdigen",
+    "hochachten",
+    "ästimieren",
+    "vorhaben",
+    "unterrichten",
+    "benachrichtigen",
+    "bekanntgeben",
+    "bekanntmachen",
+    "gucken",
+    "mutmaßen",
+    "wähnen"
+  ],
+  "Importance": [
+    "ankommen"
+  ],
+  "Hostile_encounter": [
+    "Krieg",
+    "Konflikt",
+    "streiten",
+    "vorrücken",
+    "rollen",
+    "Auseinandersetzung"
+  ],
+  "Filling": [
+    "vollstopfen",
+    "schmücken",
+    "einspritzen",
+    "abfüllen",
+    "einspeisen",
+    "verpacken",
+    "einschlagen",
+    "einpacken",
+    "einwickeln",
+    "einhüllen",
+    "umhüllen",
+    "hüllen"
+  ],
+  "Notification_of_charges": [
+    "vorwerfen",
+    "anklagen",
+    "Anklage",
+    "Klage"
+  ],
+  "Existence": [
+    "existieren",
+    "Existenz",
+    "Xexistenz",
+    "Dasein",
+    "Vorhandensein",
+    "Sein"
+  ],
+  "Sensation": [
+    "riechen"
+  ],
+  "Duplication": [
+    "darstellen"
+  ],
+  "Cause_to_experience": [
+    "quälen",
+    "peinigen"
+  ],
+  "Undressing": [
+    "ablegen"
+  ],
+  "Forming_relationships": [
+    "nehmen",
+    "essen",
+    "futtern"
+  ],
+  "Suspicion": [
+    "vermuten",
+    "annehmen",
+    "mutmaßen",
+    "schätzen",
+    "wähnen"
+  ],
+  "Opinion": [
+    "Auge",
+    "Fettauge"
+  ],
+  "Taking": [
+    "nehmen",
+    "reissen",
+    "essen",
+    "futtern"
+  ],
+  "Birth": [
+    "bringen",
+    "Welt",
+    "gebären",
+    "bringen Welt zu",
+    "kreißen",
+    "zur Welt bringen",
+    "einbringen",
+    "ertragen",
+    "eintragen",
+    "erbringen",
+    "abwerfen",
+    "einspielen",
+    "Erdkörper",
+    "Erde",
+    "Erdkugel",
+    "Erdball",
+    "Erdkreis",
+    "Globus",
+    "Weltkugel"
+  ],
+  "Posture": [
+    "sitzen"
+  ],
+  "Being_employed": [
+    "Arbeitsplatz",
+    "Job",
+    "arbeiten",
+    "engagieren",
+    "anstellen",
+    "ausfressen",
+    "verbrechen",
+    "verzapfen",
+    "auseinandersetzen",
+    "abgeben",
+    "Arbeitsstelle",
+    "Arbeitsstätte",
+    "Arbeit"
+  ],
+  "Commerce_buy": [
+    "einkaufen",
+    "kaufen",
+    "Kauf",
+    "erwerben",
+    "einholen",
+    "vorknöpfen",
+    "vornehmen",
+    "Einkauf",
+    "Ankauf",
+    "Erwerb"
+  ],
+  "Killing": [
+    "Mord",
+    "ersticken",
+    "Massaker",
+    "ausrotten",
+    "ermorden",
+    "töten",
+    "Mörder",
+    "umbringen",
+    "Tötung",
+    "Ermordung",
+    "erschlagen",
+    "morden",
+    "Totschläger",
+    "nehmen",
+    "Killer",
+    "erwürgen",
+    "reissen",
+    "vernichten",
+    "schlachten",
+    "bringen",
+    "lynchen",
+    "verbrennen",
+    "abschlachten",
+    "kaltmachen",
+    "killen",
+    "meucheln",
+    "umlegen",
+    "essen",
+    "futtern",
+    "einbringen",
+    "ertragen",
+    "eintragen",
+    "erbringen",
+    "abwerfen",
+    "einspielen",
+    "erdrosseln",
+    "strangulieren",
+    "Mordtat",
+    "Blutbad",
+    "Gemetzel",
+    "Blutvergießen",
+    "Abschlachtung",
+    "Abschlachten",
+    "Gemorde",
+    "Totschlag",
+    "Mörderin",
+    "Killerin"
+  ],
+  "Becoming_aware": [
+    "schauen",
+    "spüren",
+    "entdecken",
+    "feststellen",
+    "beobachten",
+    "auffallen",
+    "wiederfinden",
+    "bemerken",
+    "blicken",
+    "riechen",
+    "kommen",
+    "erfassen",
+    "observieren",
+    "vorfinden",
+    "finden",
+    "registrieren",
+    "gucken"
+  ],
+  "Amounting_to": [
+    "ergeben",
+    "anfallen",
+    "herausstellen",
+    "vorkommen"
+  ],
+  "Reliance": [
+    "bauen"
+  ],
+  "Adding_up": [
+    "kommen"
+  ],
+  "Verification": [
+    "überzeugen",
+    "beglaubigen",
+    "authentifizieren"
+  ],
+  "Cause_harm": [
+    "foltern",
+    "verwunden",
+    "prügeln",
+    "einschlagen",
+    "treten",
+    "zerren",
+    "züchtigen",
+    "zustechen",
+    "brechen",
+    "zusammenschlagen",
+    "quälen",
+    "beissen",
+    "verletzen",
+    "blessieren",
+    "versehren",
+    "lädieren",
+    "peinigen",
+    "traktieren",
+    "martern"
+  ],
+  "Cause_to_move_in_place": [
+    "schwingen",
+    "oszillieren"
+  ],
+  "Judgment_direct_address": [
+    "danken",
+    "rügen",
+    "rüffeln",
+    "zeigen",
+    "loben",
+    "verhöhnen",
+    "lesen"
+  ],
+  "Being_born": [
+    "gebären",
+    "Welt",
+    "kommen Welt zu",
+    "kreißen",
+    "zur Welt bringen",
+    "Erdkörper",
+    "Erde",
+    "Erdkugel",
+    "Erdball",
+    "Erdkreis",
+    "Globus",
+    "Weltkugel"
+  ],
+  "Labeling": [
+    "nennen",
+    "sprechen",
+    "bezeichnen",
+    "reden"
+  ],
+  "Communication_response": [
+    "Antwort",
+    "antworten"
+  ],
+  "Heralding": [
+    "ankündigen",
+    "ansagen"
+  ],
+  "Assistance": [
+    "unterstützen",
+    "springen"
+  ],
+  "Intentionally_create": [
+    "legen"
+  ],
+  "Impact": [
+    "einschlagen",
+    "abstürzen",
+    "stossen",
+    "anfahren",
+    "zusammenschlagen"
+  ],
+  "Linguistic_meaning": [
+    "bedeuten",
+    "heissen",
+    "andeuten"
+  ],
+  "Motion_noise": [
+    "trampeln",
+    "krachen",
+    "stampfen"
+  ],
+  "Criminal_investigation": [
+    "ermitteln"
+  ],
+  "Coming_to_be": [
+    "entstehen",
+    "anfallen",
+    "kommen",
+    "ergeben",
+    "herausstellen",
+    "vorkommen"
+  ],
+  "Education_teaching": [
+    "lernen",
+    "erlernen"
+  ],
+  "Separation": [
+    "durchschlagen"
+  ],
+  "Being_located": [
+    "befinden",
+    "sitzen",
+    "wiederfinden",
+    "sein"
+  ],
+  "Reason": [
+    "Grund",
+    "Anlass",
+    "treiben",
+    "Motiv",
+    "Anlass",
+    "Bildmotiv",
+    "Bildthema",
+    "Bildthematik",
+    "Motivation",
+    "Beweggrund",
+    "Veranlassung"
+  ],
+  "Deciding": [
+    "sprechen",
+    "befinden",
+    "sein",
+    "reden"
+  ],
+  "Employing": [
+    "Beschäftigter",
+    "Arbeitgeber",
+    "Mitarbeiter",
+    "Angestellter",
+    "Arbeitnehmer",
+    "Belegschaft",
+    "Mitarbeiterin",
+    "angestellter",
+    "beschäftigter",
+    "Angestellte",
+    "Kollegium",
+    "Kollegenkreis",
+    "Berufstätiger",
+    "Berufstätige",
+    "Erwerbstätiger",
+    "Erwerbstätige",
+    "Beschäftigte",
+    "Arbeitgeberin",
+    "Arbeitnehmerin"
+  ],
+  "Achieving_first": [
+    "entdecken",
+    "vorfinden",
+    "finden"
+  ],
+  "Intentionally_act": [
+    "treiben",
+    "darstellen"
+  ],
+  "Commerce_collect": [
+    "kassieren",
+    "bitten",
+    "verlangen",
+    "berechnen",
+    "nehmen",
+    "essen",
+    "futtern",
+    "einkassieren"
+  ],
+  "Contrition": [
+    "bedauern",
+    "bereuen"
+  ],
+  "Receiving": [
+    "erhalten",
+    "Eingang",
+    "Zugang"
+  ],
+  "Buildings": [
+    "Haus"
+  ],
+  "Text_creation": [
+    "melden",
+    "schreiben",
+    "sprechen",
+    "sagen",
+    "bringen",
+    "einbringen",
+    "ertragen",
+    "eintragen",
+    "erbringen",
+    "abwerfen",
+    "einspielen",
+    "reden"
+  ],
+  "Quantity": [
+    "Zahl",
+    "Anzahl"
+  ],
+  "Attack": [
+    "losschlagen",
+    "überfallen",
+    "angreifen",
+    "anfallen",
+    "zusammenschlagen",
+    "herfallen",
+    "hermachen",
+    "ergeben",
+    "herausstellen",
+    "vorkommen"
+  ],
+  "Change_position_on_a_scale": [
+    "steigen",
+    "sinken",
+    "zunehmen",
+    "schwinden",
+    "verdoppeln",
+    "gewinnen",
+    "ändern",
+    "schrumpfen",
+    "klettern",
+    "springen",
+    "nachgeben",
+    "reduzieren",
+    "erhöhen",
+    "rollen",
+    "ankommen",
+    "abstürzen",
+    "vorrücken",
+    "verändern",
+    "wandeln",
+    "verzweifachen",
+    "dualisieren"
+  ],
+  "Response": [
+    "reagieren",
+    "Antwort",
+    "Konsequenz",
+    "antworten"
+  ],
+  "Coming_to_believe": [
+    "folgern",
+    "herausfinden",
+    "feststellen",
+    "lernen",
+    "schliessen",
+    "Auge",
+    "ableiten",
+    "vergewissern",
+    "begreifen",
+    "überzeugen",
+    "versichern",
+    "derivieren",
+    "herausbekommen",
+    "herauskriegen",
+    "Fettauge"
+  ],
+  "Chatting": [
+    "sprechen",
+    "reden"
+  ],
+  "Manipulation": [
+    "quetschen",
+    "streichen",
+    "treten",
+    "nehmen",
+    "essen",
+    "futtern",
+    "tilgen"
+  ],
+  "Quarreling": [
+    "streiten",
+    "Haar"
+  ],
+  "Change_posture": [
+    "setzen",
+    "legen"
+  ],
+  "Make_noise": [
+    "quietschen",
+    "glucksen",
+    "krachen",
+    "dröhnen",
+    "gluckern"
+  ],
+  "Direction": [
+    "Nord",
+    "Norden",
+    "West",
+    "Westen",
+    "Süd",
+    "Sued",
+    "Süden",
+    "Sueden",
+    "Ost",
+    "Osten",
+    "dort",
+    "dorthin",
+    "vorn",
+    "hinten",
+    "rechts",
+    "links",
+    "oben",
+    "unten",
+    "drüben"
+  ]
+}
